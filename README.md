@@ -66,7 +66,7 @@ An integrated system was developed to automate data flow and improve the company
 ## Acknowledgements
 
 - Special thanks to **Talent4Startups** and **IceAlex** for providing this opportunity.  
-- Gratitude to **Pro. Alaa Essam** and **Eng. Sepa Mubark** for their guidance throughout the internship.  
+- Gratitude to **Pro. Alaa Essam** and **Eng. Seba Mostafa** for their guidance throughout the internship.  
 - Heartfelt appreciation to my project partner **Shaimaa El-Romh** for her dedication, commitment, and collaborative spirit.
 
 ---
